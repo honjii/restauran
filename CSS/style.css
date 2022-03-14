@@ -139,13 +139,11 @@ body {
 .yokohama {
   width: 811px;
   height: 509px;
-  border: solid 1px #707070;
   margin-right: 30px;
 }
 .ship {
   width: 498px;
   height: 509px;
-  border: solid 1px #707070;
 }
 
 /* section3 */
@@ -178,7 +176,6 @@ body {
   width: 560px;
   background-color: #262626;
   opacity: 0.5;
-  bolder: solid 1px #ffffff;
   position: relative;
   height: 347px;
 }
@@ -194,25 +191,21 @@ body {
 .flex-item1 {
   width: 808px;
   height: 582px;
-  border: solid 1px #707070;
   margin-left: auto;
   margin-bottom: 30px;
 }
 .flex-item2 {
   width: 676px;
   height: 518px;
-  border: solid 1px #707070;
 }
 .flex-item3 {
   width: 724px;
   height: 684px;
-  border: solid 1px #707070;
   margin-left: auto;
 }
 .flex-item4 {
   width: 678px;
   height: 603px;
-  border: solid 1px #707070;
   margin-top: -130px;
 }
 .section3-txt2 {
@@ -334,30 +327,25 @@ body {
 .grid_item1 {
   width: 620px;
   height: 440px;
-  border: solid 1px #ffffff;
   margin-bottom: 100px;
 }
 .grid_item2 {
   width: 620px;
   height: 440px;
-  border: solid 1px #ffffff;
   margin-bottom: 100px;
 }
 .grid_item3 {
   width: 620px;
   height: 440px;
-  border: solid 1px #ffffff;
 }
 .grid_item4 {
   width: 620px;
   height: 440px;
-  border: solid 1px #ffffff;
 }
 .section5-box2 {
   width: 480px;
   background-color: #262626;
   opacity: 0.9;
-  bolder: solid 1px #ffffff;
   position: relative;
   height: 186px;
 }
@@ -492,13 +480,11 @@ body {
 .section7_img {
   width: 379px;
   height: 250px;
-  border: solid 1px #ffffff;
 }
 .section7-box2 {
   width: 381px;
   background-color: #262626;
   opacity: 0.5;
-  bolder: solid 1px #ffffff;
   position: relative;
   height: 90px;
 }
@@ -535,7 +521,6 @@ body {
   background-color: #a38135;
   color: #f4f4f4;
   padding: 16px 80px;
-  border: solid 1px #f4f4f4;
 }
 .btn_wrap {
   display: flex;
