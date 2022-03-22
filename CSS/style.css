@@ -117,8 +117,8 @@ body {
   letter-spacing: 0.14em;
 }
 .section2-img {
-  width: 271px;
-  height: 255px;
+  width: 221px;
+  height: 205px;
   margin-top: 100px;
   margin-left: -38%;
 }
@@ -127,7 +127,7 @@ body {
   letter-spacing: 0.24em;
   text-align: left;
   font-family: YuMincho;
-  margin-top: -250px;
+  margin-top: -210px;
   margin-left: 52%;
   line-height: 2;
 }
@@ -137,13 +137,13 @@ body {
   justify-content: end;
 }
 .yokohama {
-  width: 811px;
-  height: 509px;
+  width: 711px;
+  height: 459px;
   margin-right: 30px;
 }
 .ship {
-  width: 498px;
-  height: 509px;
+  width: 458px;
+  height: 459px;
 }
 
 /* section3 */
@@ -190,22 +190,22 @@ body {
 }
 .flex-item1 {
   width: 808px;
-  height: 582px;
+  height: 532px;
   margin-left: auto;
   margin-bottom: 30px;
 }
 .flex-item2 {
   width: 676px;
-  height: 518px;
+  height: 488px;
 }
 .flex-item3 {
   width: 724px;
-  height: 684px;
+  height: 654px;
   margin-left: auto;
 }
 .flex-item4 {
   width: 678px;
-  height: 603px;
+  height: 583px;
   margin-top: -130px;
 }
 .section3-txt2 {
@@ -229,7 +229,7 @@ body {
   height: 260px;
 }
 .section3_friends-2 {
-  margin-top: -440px;
+  margin-top: -380px;
   margin-left: 44%;
 }
 
@@ -478,15 +478,15 @@ body {
   padding-top: 120px;
 }
 .section7_img {
-  width: 379px;
+  width: 380px;
   height: 250px;
 }
 .section7-box2 {
-  width: 381px;
+  width: 380px;
   background-color: #262626;
   opacity: 0.5;
   position: relative;
-  height: 90px;
+  height: 86px;
 }
 .section7-txt2 {
   font-size: 1.6em;
@@ -507,12 +507,12 @@ body {
   margin-left: 100px;
 }
 .section7_friends-6 {
-  margin-top: -88px;
-  margin-left: 536px;
+  margin-top: -83px;
+  margin-left: 535px;
 }
 .section7_friends-7 {
-  margin-top: -88px;
-  margin-left: 972px;
+  margin-top: -83px;
+  margin-left: 970px;
 }
 .section7_btn {
   text-decoration: none;
